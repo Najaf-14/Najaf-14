@@ -15,9 +15,8 @@
 - 🚀 Always exploring new technologies  
 
 ---
-<p align="center">
 
-### ✍️ Quote
+<p align="center">
 
 > “I do not believe in taking the right decision, I take a decision and make it right.”  
 > — Muhammad Ali Jinnah
@@ -25,18 +24,22 @@
 </p>
 
 ---
-## 🌐 Connect With Me
+
+## 🌐 Socials
 
 <p align="center">
   <a href="https://facebook.com/Syed.Najaf.Imran">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/najaf__naqvi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com/in/syed-najaf-imran">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:najafimran314@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -74,19 +77,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Najaf-14&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Najaf-14&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-14&layout=compact" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Najaf-14&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Najaf-14&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Najaf-14&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -94,14 +88,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Najaf-14&theme=radical&margin-w=4" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Najaf-14&theme=react-dark" />
 </p>
 
 ---
