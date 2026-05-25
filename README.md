@@ -91,6 +91,13 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Najaf-14&theme=react-dark&hide_border=true" />
+</p>
+
+---
 
 ## 👁 Profile Views
 
