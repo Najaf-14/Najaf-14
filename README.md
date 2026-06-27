@@ -77,10 +77,13 @@
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-FF6A00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Najaf-14&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Najaf-14&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Najaf-14&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Najaf-14&show_icons=true&theme=transparent&hide_border=false)
+
+![](https://streak-stats.demolab.com?user=Najaf-14&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-14&layout=compact&theme=transparent&hide_border=false)
 
 ---
 
