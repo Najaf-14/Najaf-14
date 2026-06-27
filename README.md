@@ -86,14 +86,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najaf-14&layout=compact&theme=transparent&hide_border=false)
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Najaf-14&theme=radical&margin-w=4" />
-</p>
-
----
 ## 📈 Contribution Graph
 
 <p align="center">
